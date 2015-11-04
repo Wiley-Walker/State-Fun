@@ -1,0 +1,28 @@
+ 
+getStates({
+
+    "states":[
+    {
+            "location":"Alabama",
+            "funFact":"Alabama workers built the first rocket to put humans on the moon.",
+            "map":"https://www.sircon.com/stateInformationCenter/images/sic-alabama.jpg"
+        },
+        {
+            "location":"Alaska",
+            "funFact":"At 20,320 feet above sea level, Mt. McKinley, located in Alaska's interior, is the highest point in North America.",
+            "map":"http://cnaclassesonlinetraining.com/wp-content/uploads/CNA-Classes-Alaska.jpg"
+        },
+        {
+            "location":"Arizona",
+            "funFact":"Tombstone, Ruby, Gillette, and Gunsight are among the ghost towns scattered throughout the state.",
+            "map":"http://www.carearizona.org/images/Arizona-Map.jpg"
+        },
+
+        {
+            "location":"California",
+            "Funfact":"The one-word state motto, an exclamation-point-less 'Eureka', hearkens back to the exciting days of the Gold Rush!",
+            "map":"http://www.adaptibar.com/blog/wp-content/uploads/2014/08/Cali.png"
+        },
+         
+    ]
+});
